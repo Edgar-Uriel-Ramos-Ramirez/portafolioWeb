@@ -1,0 +1,122 @@
+.body{
+    background-color: blanchedalmond;
+}
+
+.tituloCabecera{
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+}
+
+.tituloPresenta{
+    font-family: 'Changa One', cursive;
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+}
+
+.cabecera{
+    max-width: 650px;
+    width: 100%;
+    background: #fff;
+    margin: 10px auto;
+    padding: 1px 20px 10px;
+    border-radius: 10px;
+}
+
+.imagen{
+    border-radius: 40px;
+    border: 10px solid rgb(255, 212, 71);
+}
+
+.titulos{
+    font-family: 'Open Sans', sans-serif;
+}
+
+.ImagenTxtJuntos{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.RedSocialJuntos{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.DtPersoanles{
+    max-width: 400px;
+    width: 55%;
+    background: rgb(118, 137, 158);
+    margin: 0px auto;
+    padding: 1px 4px 0px;
+    border-radius: 30px;
+}
+
+.QuienSoy{
+    max-width: 650px;
+    width: 100%;
+    background: rgb(118, 137, 158);
+    margin: 15px auto;
+    padding: 1px 5px 10px;
+    border-radius: 10px;
+}
+
+.ExpLaboral{
+    max-width: 650px;
+    width: 100%;
+    background: rgb(118, 137, 158);
+    margin: 15px auto;
+    padding: 1px 5px 10px;
+    border-radius: 10px;
+}
+
+.Educacion{
+    max-width: 650px;
+    width: 100%;
+    background: rgb(118, 137, 158);
+    margin: 15px auto;
+    padding: 1px 5px 10px;
+    border-radius: 10px;
+}
+
+.Idiomas{
+    max-width: 650px;
+    width: 100%;
+    background: rgb(118, 137, 158);
+    margin: 15px auto;
+    padding: 1px 5px 10px;
+    border-radius: 10px;
+}
+
+.HabComputo{
+    max-width: 650px;
+    width: 100%;
+    background: rgb(118, 137, 158);
+    margin: 15px auto;
+    padding: 1px 5px 10px;
+    border-radius: 10px;
+}
+
+.Ref{
+    max-width: 650px;
+    width: 100%;
+    background: rgb(118, 137, 158);
+    margin: 15px auto;
+    padding: 1px 5px 10px;
+    border-radius: 10px;
+}
+
+.EnlRedSocial{
+    max-width: 650px;
+    width: 100%;
+    background: rgb(248, 248, 248);
+    margin: 15px auto;
+    padding: 1px 5px 10px;
+    border-radius: 10px;
+}
+
+.textoGeneral{
+    text-align: justify;
+    font-family: 'Libre Franklin', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+
+}
+
